@@ -1,0 +1,1184 @@
+<html>
+	<head>
+		<meta http-equiv='content-type' content='text/html;charset=iso-8859-1'>
+		<meta name='generator' content=''>
+		<title>FIC - Programma serie</title><style media='screen' type='text/css'>
+		body {font-family: Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+		 background-color: #DEEFEE;
+		 background-repeat: repeat-y;
+		 background-attachment: fixed;
+		 font: 10pt; }
+		 font {font-family: Arial,Helvetica,Geneva,Swiss,SunSans-Regular; font-size: 8pt;}
+		 .h1 {font-family: Arial,Helvetica,Geneva,Swiss,SunSans-Regular; font-size: 8pt;color:#3A6FA3;}
+		 .bt1 {font-size: 8pt; color: white; background:#3A6FA3; cursor: hand;}
+		 .txt1 {font-size: 8pt; color: #3A6FA3; background: white; border-style: dotted;}
+		 .txt2 {font-size: 8pt; color: #FF7F50; background: #DCDCDC; border-style: groove;}
+		 .txt3 {font-size: 12pt; color: #3A6FA3; background: white; border-style: groove;}
+		 .txt4 {font-size: 8pt; color: #3A6FA3; background: white; border-style: solid;border-width: 1;}
+		 .label1 {font-size: 8pt; color: #2b40df;}
+		 .label1_red {font-size: 8pt; color: red;}
+		 .label1_gri {font-size: 8pt; color: #2b40df; background: #cfcfcf}
+		 .label10 {font-size: 10pt; color: #2b40df}
+		 .label14 {font-size: 14pt; color: #2b40df}
+		 .label10_gri {font-size: 10pt; color: #2b40df; background: #cfcfcf}
+		 .mess1 {font-size: 10pt; color: red;}
+		 .menu {border-color: #3A6FA3; border-top-style: none;border-bottom-style: dotted;
+			border-right-style: none; border-left-style: dotted; border-width: thin; 
+			padding-left: 4;font: 08pt;}
+		 .opt1 {font-size: 8pt; color: #3A6FA3;}
+		 .sel1 {font-size: 8pt; color: #3A6FA3;}
+		 .sel2 {font-size: 6pt; color: #3A6FA3;}
+			td.t0 {border-style:none; color:#3A6FA3; font-size:10pt;}
+			td.t1 {border-width:1; border-left-style: dashed; border-color: black;}
+			td.t2 {border-width:1; border-left-style: dashed; border-color: black;
+				color: red;}
+			td.t3 {border-width:1; border-color: black;border-top-style: groove;
+				border-bottom-style: groove; color: #3A6FA3; }
+		 A:link, A:visited, A:active {text-decoration:none; color: #3A6FA3; font-size: 8pt;}
+		 A:hover	{text-decoration:bold; color: red; font-size: 8pt;} 
+		 #firma { position: absolute; top: 107px; left: 56px; width: 126px; height: 22px; visibility: hidden }
+</STYLE>
+<style media='print' type='text/css'>
+		body {font-family: Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+		 background-color: #ffffff;
+		 background-repeat: repeat-y;
+		 background-attachment: fixed;
+		 font: 10pt; }
+		 font {font-family: Arial,Helvetica,Geneva,Swiss,SunSans-Regular; font-size: 8pt;}
+		 .h1 {font-family: Arial,Helvetica,Geneva,Swiss,SunSans-Regular; font-size: 8pt;color:#3A6FA3;}
+		 .bt1 {font-size: 8pt; color: white; background:#3A6FA3; cursor: hand;}
+		 .txt1 {font-size: 8pt; color: #3A6FA3; background: white; border-style: dotted;}
+		 .txt2 {font-size: 8pt; color: #FF7F50; background: #DCDCDC; border-style: groove;}
+		 .txt3 {font-size: 12pt; color: #3A6FA3; background: white; border-style: groove;}
+		 .txt4 {font-size: 8pt; color: #3A6FA3; background: white; border-style: solid;border-width: 1;}
+		 .label1 {font-size: 8pt; color: #2b40df;}
+		 .label1_red {font-size: 8pt; color: red;}
+		 .label1_gri {font-size: 8pt; color: #2b40df; background: #cfcfcf}
+		 .label10 {font-size: 10pt; color: #2b40df}
+		 .label14 {font-size: 14pt; color: #2b40df}
+		 .label10_gri {font-size: 10pt; color: #2b40df; background: #cfcfcf}
+		 .mess1 {font-size: 10pt; color: red;}
+		div.page { page-break-before: always ; }
+		div.bottoni {visibility: hidden;}
+		#firma {position: absolute; top: 156px; left: 356px; width: 134px; height: 128px; visibility: visible }
+		#stampa {visibility: hidden;}
+</STYLE>
+		<style>
+			td.t0 {border-style:none; color:#3A6FA3; font-size:10pt;}
+			td.t1 {border-width:1; border-left-style: dashed; border-color: black;border-bottom-style: dashed;}
+			td.t2 {border-width:1; border-left-style: dashed; border-color: black;
+				color: red;}
+			td.t3 {border-width:1; border-color: black;border-top-style: groove;
+				border-bottom-style: groove; color: #3A6FA3; }
+		</style>
+		<script>
+			function richiama()
+			{window.location.assign('reg_vdpr.php?passa=0')
+			}
+			</script>
+	</head><body>
+	<table border="0" cellpadding="1" cellspacing="0" width="100%">
+		<tr><td  class='label10'>FEDERAZIONE ITALIANA CANOTTAGGIO <br><b>PROGRAMMA GARE </b></td><td><img src='bannerPROG.jpg'></td>
+		<td class='label10' align='left'><b>Regata del <br>25/01/2020 - 26/01/2020</b></td></tr></table><div><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>16 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>QUATTRO SENZA Under 23 M &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 11 mt. N.Eq. 3 N.Isc. 3)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					145</b>&nbsp;<i>(85)</i> Ore: <b>09:30:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LARIO  SC(1)</i></font><font style='font-size: 8pt;'><br>Castelnovo Nicolas<font style='font-size: 8pt;'><br>Galimberti Ivan<font style='font-size: 8pt;'><br>Rocek Patrick<font style='font-size: 8pt;'><br>Frigerio Jacopo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					146</b>&nbsp;<i>(297)</i> Ore: <b>09:30:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ROWING GE(1)</i></font><font style='font-size: 8pt;'><br>Rossi Tommaso<font style='font-size: 8pt;'><br>Polleri Francesco<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Loconsole Gabriele<font style='font-size: 8pt;'><br>Prato Mario</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					147</b>&nbsp;<i>(223)</i> Ore: <b>09:31:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CORGENO SC(1)</i></font><font style='font-size: 8pt;'><br>Casola Danny<font style='font-size: 8pt;'><br>Corti Dario<font style='font-size: 8pt;'><br>Oulji Thomas<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Savoldi Riccardo</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>17 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>QUATTRO SENZA Senior A M &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 19 mt. N.Eq. 6 N.Isc. 6)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					148</b>&nbsp;<i>(314)</i> Ore: <b>09:33:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ACCADEMIA LI(1)</i></font><font style='font-size: 8pt;'><br>Tinagli Lorenzo<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Petraccia Michele<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Gallo Valerio<font style='font-size: 8pt;'><br>Tonin Giovanni<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					149</b>&nbsp;<i>(183)</i> Ore: <b>09:33:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>NAPOLI CC(1)</i></font><font style='font-size: 8pt;'><br>Cella Francesco<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Di Mauro Gennaro Alberto<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Ciccarelli Andrea<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Cella Mario<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					150</b>&nbsp;<i>(180)</i> Ore: <b>09:34:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>RAVENNA SC(1)</i></font><font style='font-size: 8pt;'><br>Catenelli Nicola<font style='font-size: 8pt;'><br>Cziraki Gergo<font style='font-size: 8pt;'><br>Kushnir Victor<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Prestigiovanni Valerio<font style='font-size: 6pt;'>(JN)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					151</b>&nbsp;<i>(66)</i> Ore: <b>09:34:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ROWING GE(1)</i></font><font style='font-size: 8pt;'><br>Farinini Marco<font style='font-size: 8pt;'><br>Casaccia Gibelli Giorgio<font style='font-size: 8pt;'><br>Costa Giacomo<font style='font-size: 8pt;'><br>Marchetti Edoardo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					152</b>&nbsp;<i>(150)</i> Ore: <b>09:35:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GAVIRATE(1)</i></font><font style='font-size: 8pt;'><br>Biolcati Christian<font style='font-size: 8pt;'><br>Codato Giovanni<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Covini Paolo<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Peretti Riccardo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					153</b>&nbsp;<i>(305)</i> Ore: <b>09:35:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SATURNIA CC(1)</i></font><font style='font-size: 8pt;'><br>Giurgevich Luca<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Secoli Enrico<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Tommasini Lorenzo<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Ferrio Gustavo<font style='font-size: 6pt;'>(SB)</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>18 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>DOPPIO Under 23 M &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 9 mt. N.Eq. 18 N.Isc. 18)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					154</b>&nbsp;<i>(214)</i> Ore: <b>09:37:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SATURNIA CC(1)</i></font><font style='font-size: 8pt;'><br>De Rogatis Pierluigi<font style='font-size: 8pt;'><br>Marsi Federico</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					155</b>&nbsp;<i>(253)</i> Ore: <b>09:38:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VVF TOMEI(1)</i></font><font style='font-size: 8pt;'><br>Benini Edoardo<font style='font-size: 8pt;'><br>Bernardini Alessandro</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					156</b>&nbsp;<i>(125)</i> Ore: <b>09:38:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ELPIS GENOVA(1)</i></font><font style='font-size: 8pt;'><br>Menessini Massimiliano<font style='font-size: 8pt;'><br>Mangraviti Mario</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					157</b>&nbsp;<i>(233)</i> Ore: <b>09:39:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>FOCE CECINA(1)</i></font><font style='font-size: 8pt;'><br>Barsacchi Alessandro<font style='font-size: 8pt;'><br>Trassinelli Francesco</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					158</b>&nbsp;<i>(49)</i> Ore: <b>09:39:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MURCAROLO SS(1)</i></font><font style='font-size: 8pt;'><br>Bonamoneta Alessandro<font style='font-size: 8pt;'><br>De Franchi Maurizio</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					159</b>&nbsp;<i>(15)</i> Ore: <b>09:40:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>FIRENZE SC(1)</i></font><font style='font-size: 8pt;'><br>Dini Federico<font style='font-size: 8pt;'><br>Terramoccia Rocco</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					160</b>&nbsp;<i>(117)</i> Ore: <b>09:40:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>POSILLIPO CN(1)</i></font><font style='font-size: 8pt;'><br>Ceccarino Federico<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Lobascio Gabriele</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					161</b>&nbsp;<i>(2001)</i> Ore: <b>09:41:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SPERANZA(1)</i></font><font style='font-size: 8pt;'><br>Cambiaso Giovanni<font style='font-size: 8pt;'><br>Rocchi Edoardo</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					162</b>&nbsp;<i>(149)</i> Ore: <b>09:41:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GAVIRATE(1)</i></font><font style='font-size: 8pt;'><br>Carucci NicolÒ<font style='font-size: 8pt;'><br>Carrettin Sebastiano</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					163</b>&nbsp;<i>(31)</i> Ore: <b>09:42:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PALERMO SC(1)</i></font><font style='font-size: 8pt;'><br>Amato Federico<font style='font-size: 8pt;'><br>D'amico Angelo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					164</b>&nbsp;<i>(241)</i> Ore: <b>09:42:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CAVALLINI(1)</i></font><font style='font-size: 8pt;'><br>Nelli Antonio<font style='font-size: 8pt;'><br>Fatticioni Filippo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					165</b>&nbsp;<i>(156)</i> Ore: <b>09:43:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GAVIRATE(1)</i></font><font style='font-size: 8pt;'><br>Simonetta Elia<font style='font-size: 8pt;'><br>Rizzi Paolo Carlo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					166</b>&nbsp;<i>(256)</i> Ore: <b>09:43:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LIMITE SC(1)</i></font><font style='font-size: 8pt;'><br>Bonaffini Lorenzo<font style='font-size: 8pt;'><br>Gori Samuele</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					167</b>&nbsp;<i>(104)</i> Ore: <b>09:44:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PARTENIO SC(1)</i></font><font style='font-size: 8pt;'><br>Montesanto Ferdinando<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Della Pietra Antonio</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					168</b>&nbsp;<i>(11)</i> Ore: <b>09:44:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>TEVERE REMO(1)</i></font><font style='font-size: 8pt;'><br>Musci Riccardo<font style='font-size: 8pt;'><br>Marinaro Michel</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					169</b>&nbsp;<i>(171)</i> Ore: <b>09:45:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS PAVIA(1)</i></font><font style='font-size: 8pt;'><br>Giardino Salvatore<font style='font-size: 8pt;'><br>Molinari Francesco</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					170</b>&nbsp;<i>(187)</i> Ore: <b>09:45:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VARESE SC(1)</i></font><font style='font-size: 8pt;'><br>Orlandini Willem<font style='font-size: 8pt;'><br>Sessa Matteo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					171</b>&nbsp;<i>(205)</i> Ore: <b>09:46:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS TORINO(1)</i></font><font style='font-size: 8pt;'><br>Gaione Lorenzo<font style='font-size: 8pt;'><br>Graziano Filippo</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>19 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>QUATTRO SENZA Under 23 F &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 12 mt. N.Eq. 5 N.Isc. 5)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					172</b>&nbsp;<i>(47)</i> Ore: <b>09:48:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>AMICI FIUME(1)</i></font><font style='font-size: 8pt;'><br>Boldrino Anita Rosa<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Crosio Silvia<font style='font-size: 8pt;'><br>Falossi Marta<font style='font-size: 8pt;'><br>Orecchia Matilde<font style='font-size: 6pt;'>(JN)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					173</b>&nbsp;<i>(200)</i> Ore: <b>09:48:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS TORINO(1)</i></font><font style='font-size: 8pt;'><br>Alajdi El Idrissi Khadija<font style='font-size: 8pt;'><br>Baudino Lucrezia<font style='font-size: 8pt;'><br>Bumbaca Veronica<font style='font-size: 8pt;'><br>Gallo Valentina</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					174</b>&nbsp;<i>(10)</i> Ore: <b>09:49:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>TEVERE REMO(1)</i></font><font style='font-size: 8pt;'><br>Paoletti Stefania<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Piersanti Emma<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Merlini Angelica<font style='font-size: 8pt;'><br>Fanciulli Chiara<font style='font-size: 6pt;'>(JN)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					175</b>&nbsp;<i>(155)</i> Ore: <b>09:49:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GAVIRATE(1)</i></font><font style='font-size: 8pt;'><br>Manzoni Linda<font style='font-size: 8pt;'><br>Sturaro Matilde<font style='font-size: 8pt;'><br>Schwartz Greta<font style='font-size: 8pt;'><br>De Filippis Linda</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					176</b>&nbsp;<i>(198)</i> Ore: <b>09:50:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MOLTRASIO(1)</i></font><font style='font-size: 8pt;'><br>Passini Arianna<font style='font-size: 8pt;'><br>Agyemang-heard Nadine Amma Eli<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Mondelli Elisa<font style='font-size: 8pt;'><br>Barelli Marta</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div class='page'>
+				<table border="0" cellpadding="1" cellspacing="0" width="100%">
+					<tr><td  class='label10'>FEDERAZIONE ITALIANA CANOTTAGGIO <br><b>PROGRAMMA GARE </b></td>
+						<td><img src='bannerPROG.jpg'></td>
+						<td class='label10' align='left'><b>Regata del <br>25/01/2020 - 26/01/2020</b></td>
+					</tr>
+				</table><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>20 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>DOPPIO Junior M &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 5 mt. N.Eq. 30 N.Isc. 30)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					178</b>&nbsp;<i>(252)</i> Ore: <b>09:52:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LIMITE SC(1)</i></font><font style='font-size: 8pt;'><br>Biondi Dario<font style='font-size: 8pt;'><br>Santini Samuele</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					179</b>&nbsp;<i>(334)</i> Ore: <b>09:53:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS FERRARA(1)</i></font><font style='font-size: 8pt;'><br>Ronchi Damiano<font style='font-size: 8pt;'><br>Vicentini Marcello</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					180</b>&nbsp;<i>(309)</i> Ore: <b>09:53:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PADOVA SC(1)</i></font><font style='font-size: 8pt;'><br>Cappellozza Giovanni<font style='font-size: 8pt;'><br>Levorin Filippo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					181</b>&nbsp;<i>(53)</i> Ore: <b>09:54:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PONTEMILVIO(1)</i></font><font style='font-size: 8pt;'><br>Barionovi Noah<font style='font-size: 6pt;'>(GR)<font style='font-size: 8pt;'><br>Pacciolla Carlo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					182</b>&nbsp;<i>(95)</i> Ore: <b>09:54:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CAPRERA SC(1)</i></font><font style='font-size: 8pt;'><br>Ferrero Fausto<font style='font-size: 8pt;'><br>Zagni Mirko</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					183</b>&nbsp;<i>(144)</i> Ore: <b>09:55:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GAVIRATE(1)</i></font><font style='font-size: 8pt;'><br>Fietta NicolÒ Oddo<font style='font-size: 8pt;'><br>Molinari Enea Alfonso</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					184</b>&nbsp;<i>(336)</i> Ore: <b>09:55:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CAPRERA SC(1)</i></font><font style='font-size: 8pt;'><br>Ariagno Tommaso<font style='font-size: 8pt;'><br>Lazzaro Federico</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					185</b>&nbsp;<i>(96)</i> Ore: <b>09:56:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CAPRERA SC(1)</i></font><font style='font-size: 8pt;'><br>Romano Alberto<font style='font-size: 8pt;'><br>Ender Martino</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					186</b>&nbsp;<i>(43)</i> Ore: <b>09:56:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>AMICI FIUME(1)</i></font><font style='font-size: 8pt;'><br>Viglino Mario<font style='font-size: 8pt;'><br>Bosio Giuliano</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					187</b>&nbsp;<i>(32)</i> Ore: <b>09:57:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>TERNI CLT(1)</i></font><font style='font-size: 8pt;'><br>Pallozzi Francesco<font style='font-size: 8pt;'><br>Pecorari Lorenzo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					188</b>&nbsp;<i>(331)</i> Ore: <b>09:57:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS FERRARA(1)</i></font><font style='font-size: 8pt;'><br>Gilli Pietro<font style='font-size: 8pt;'><br>Pappalepore Simone</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					189</b>&nbsp;<i>(34)</i> Ore: <b>09:58:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CORGENO SC(1)</i></font><font style='font-size: 8pt;'><br>Bertesago Cristian<font style='font-size: 8pt;'><br>Caramaschi Edoardo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					190</b>&nbsp;<i>(182)</i> Ore: <b>09:58:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>NAPOLI CC(1)</i></font><font style='font-size: 8pt;'><br>Fragomeno Luigi<font style='font-size: 8pt;'><br>Litterio Leonardo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					191</b>&nbsp;<i>(267)</i> Ore: <b>09:59:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>IRNO C.C.(1)</i></font><font style='font-size: 8pt;'><br>De Martino Giuseppe<font style='font-size: 8pt;'><br>Casale Artiom  Giusepp</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					192</b>&nbsp;<i>(284)</i> Ore: <b>09:59:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VELOCIOR1883(1)</i></font><font style='font-size: 8pt;'><br>BernabÒ Luca<font style='font-size: 8pt;'><br>Boschi NicolÒ</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					193</b>&nbsp;<i>(137)</i> Ore: <b>10:00:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ITALIA CRV(1)</i></font><font style='font-size: 8pt;'><br>Zaccaro Emmanuel<font style='font-size: 8pt;'><br>Romanelli Christian</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					194</b>&nbsp;<i>(92)</i> Ore: <b>10:00:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VARESE SC(1)</i></font><font style='font-size: 8pt;'><br>Ciotti Lorenzo<font style='font-size: 8pt;'><br>Lancellotti Giacomo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					196</b>&nbsp;<i>(107)</i> Ore: <b>10:01:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>RETICA CAN.(1)</i></font><font style='font-size: 8pt;'><br>Signorelli Luca<font style='font-size: 8pt;'><br>Tedoldi Leonardo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					197</b>&nbsp;<i>(112)</i> Ore: <b>10:02:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>TIMAVO SC(1)</i></font><font style='font-size: 8pt;'><br>Pacorig Giacomo<font style='font-size: 8pt;'><br>Itri Manlio</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					199</b>&nbsp;<i>(140)</i> Ore: <b>10:03:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MM SABAUDIA(1)</i></font><font style='font-size: 8pt;'><br>Cerasoli Gabriele<font style='font-size: 8pt;'><br>Barletta Daniel Marcos</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					200</b>&nbsp;<i>(54)</i> Ore: <b>10:03:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PONTEMILVIO(1)</i></font><font style='font-size: 8pt;'><br>Onorati Francesco<font style='font-size: 8pt;'><br>Esposito NicolÒ<font style='font-size: 6pt;'>(GR)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					201</b>&nbsp;<i>(175)</i> Ore: <b>10:04:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>NETTUNO TS(1)</i></font><font style='font-size: 8pt;'><br>Neglia Niccolo<font style='font-size: 8pt;'><br>Devetak Julijan</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					202</b>&nbsp;<i>(193)</i> Ore: <b>10:04:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ERIDANEA SC(1)</i></font><font style='font-size: 8pt;'><br>Dall'asta Mattia<font style='font-size: 8pt;'><br>Grasselli Andrea</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					203</b>&nbsp;<i>(38)</i> Ore: <b>10:05:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>BISSOLATI SC(1)</i></font><font style='font-size: 8pt;'><br>Rossetti Andrea<font style='font-size: 8pt;'><br>Tognazzi Marco Joseph</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					204</b>&nbsp;<i>(2)</i> Ore: <b>10:05:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ESPERIA TO(1)</i></font><font style='font-size: 8pt;'><br>Bergamin Emanuele<font style='font-size: 8pt;'><br>Santi Lapo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					205</b>&nbsp;<i>(106)</i> Ore: <b>10:06:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ARNO SC(1)</i></font><font style='font-size: 8pt;'><br>Rocchi Filippo<font style='font-size: 8pt;'><br>Giordani Matteo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					206</b>&nbsp;<i>(245)</i> Ore: <b>10:06:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>BALDESIO(1)</i></font><font style='font-size: 8pt;'><br>Guareschi Mario<font style='font-size: 8pt;'><br>Filace Riccardo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					208</b>&nbsp;<i>(173)</i> Ore: <b>10:07:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS BARI(1)</i></font><font style='font-size: 8pt;'><br>Cucci Rocco<font style='font-size: 8pt;'><br>Rutigliano Andrea</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					209</b>&nbsp;<i>(145)</i> Ore: <b>10:08:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GAVIRATE(1)</i></font><font style='font-size: 8pt;'><br>Tamborini Enea<font style='font-size: 8pt;'><br>Cataffo Gabriele</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					210</b>&nbsp;<i>(161)</i> Ore: <b>10:08:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SPERANZA(1)</i></font><font style='font-size: 8pt;'><br>Rocchi Emanuele<font style='font-size: 8pt;'><br>Tata Matteo</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>21 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>DOPPIO Senior A F &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 18 mt. N.Eq. 5 N.Isc. 5)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					211</b>&nbsp;<i>(22)</i> Ore: <b>10:10:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PALERMO SC(1)</i></font><font style='font-size: 8pt;'><br>Lo Bue Giorgia<font style='font-size: 8pt;'><br>Lo Bue Serena</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					212</b>&nbsp;<i>(57)</i> Ore: <b>10:11:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>URANIA(1)</i></font><font style='font-size: 8pt;'><br>Bavazzano Ilaria<font style='font-size: 8pt;'><br>Germano Veronica<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					213</b>&nbsp;<i>(206)</i> Ore: <b>10:11:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS TORINO(1)</i></font><font style='font-size: 8pt;'><br>Cerutti Alice<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Rossi Patriarca Giulia</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					214</b>&nbsp;<i>(224)</i> Ore: <b>10:12:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>TELIMAR(1)</i></font><font style='font-size: 8pt;'><br>Armeli Elena Joana<font style='font-size: 6pt;'>(VX)<font style='font-size: 8pt;'><br>Dragotto Elena<font style='font-size: 6pt;'>(VX)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					215</b>&nbsp;<i>(169)</i> Ore: <b>10:12:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS PAVIA(1)</i></font><font style='font-size: 8pt;'><br>Boiocchi Gaia<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Bini Arianna</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>22 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>DOPPIO Under 23 F &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 10 mt. N.Eq. 3 N.Isc. 3)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					217</b>&nbsp;<i>(26)</i> Ore: <b>10:15:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GARDA SALO'(1)</i></font><font style='font-size: 8pt;'><br>Olivetti Priscilla<font style='font-size: 8pt;'><br>Tonoli Vittoria</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					218</b>&nbsp;<i>(216)</i> Ore: <b>10:15:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SATURNIA CC(1)</i></font><font style='font-size: 8pt;'><br>Pellizzari Martina<font style='font-size: 8pt;'><br>Secoli Sofia</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					219</b>&nbsp;<i>(128)</i> Ore: <b>10:16:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SAVOIA R YC(1)</i></font><font style='font-size: 8pt;'><br>Sbarra Allegra<font style='font-size: 8pt;'><br>Sibillo Marialetizia</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>23 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>QUATTRO SENZA Ragazzi F &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 4 mt. N.Eq. 7 N.Isc. 7)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					220</b>&nbsp;<i>(90)</i> Ore: <b>10:18:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VARESE SC(1)</i></font><font style='font-size: 8pt;'><br>Bulgheroni Greta<font style='font-size: 8pt;'><br>Cornelli Elisa<font style='font-size: 8pt;'><br>Macchi Cecilia<font style='font-size: 8pt;'><br>Pedroli Nicole</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					221</b>&nbsp;<i>(264)</i> Ore: <b>10:18:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ARGUS SC(1)</i></font><font style='font-size: 8pt;'><br>Chiusani Michela<font style='font-size: 8pt;'><br>Maccaferri Lisa<font style='font-size: 8pt;'><br>Loccisano Asia<font style='font-size: 8pt;'><br>Solimano Greta</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					222</b>&nbsp;<i>(269)</i> Ore: <b>10:19:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>IRNO C.C.(1)</i></font><font style='font-size: 8pt;'><br>Bottigliero Roberta<font style='font-size: 8pt;'><br>Guadagno Marina<font style='font-size: 8pt;'><br>Pappalardo Marialuce<font style='font-size: 8pt;'><br>Torre Giorgia</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					223</b>&nbsp;<i>(9)</i> Ore: <b>10:19:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>TEVERE REMO(1)</i></font><font style='font-size: 8pt;'><br>Gubbiotti Sara<font style='font-size: 8pt;'><br>Morana Sara<font style='font-size: 8pt;'><br>Gennaccari Laura<font style='font-size: 8pt;'><br>Iezzi Elena</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					224</b>&nbsp;<i>(213)</i> Ore: <b>10:20:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SATURNIA CC(1)</i></font><font style='font-size: 8pt;'><br>Canetti Chiara<font style='font-size: 8pt;'><br>Gregorutti Giorgia<font style='font-size: 8pt;'><br>Pahor Benedetta<font style='font-size: 8pt;'><br>Gottardi Giulia</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					225</b>&nbsp;<i>(39)</i> Ore: <b>10:20:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ARNO SC(1)</i></font><font style='font-size: 8pt;'><br>Cuzzocrea Emma<font style='font-size: 8pt;'><br>Frati Nina<font style='font-size: 8pt;'><br>Campinoti Emma<font style='font-size: 8pt;'><br>Friberg Eva</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					226</b>&nbsp;<i>(74)</i> Ore: <b>10:21:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MONATE AC(1)</i></font><font style='font-size: 8pt;'><br>Minotti Viola<font style='font-size: 8pt;'><br>Mascolo Roberta<font style='font-size: 8pt;'><br>Stella Carlotta<font style='font-size: 8pt;'><br>Paroli Maite</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div class='page'>
+				<table border="0" cellpadding="1" cellspacing="0" width="100%">
+					<tr><td  class='label10'>FEDERAZIONE ITALIANA CANOTTAGGIO <br><b>PROGRAMMA GARE </b></td>
+						<td><img src='bannerPROG.jpg'></td>
+						<td class='label10' align='left'><b>Regata del <br>25/01/2020 - 26/01/2020</b></td>
+					</tr>
+				</table><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>24 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>DOPPIO Esordienti M &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 21 mt. N.Eq. 4 N.Isc. 4)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					227</b>&nbsp;<i>(288)</i> Ore: <b>10:23:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ROWING GE(1)</i></font><font style='font-size: 8pt;'><br>Cavallero Andrea<font style='font-size: 6pt;'>(SA)<font style='font-size: 8pt;'><br>Campodonico Giovanni<font style='font-size: 6pt;'>(JN)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					228</b>&nbsp;<i>(312)</i> Ore: <b>10:23:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PADOVA SC(1)</i></font><font style='font-size: 8pt;'><br>Merola Leonardo<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Scucciari Mattia<font style='font-size: 6pt;'>(JN)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					229</b>&nbsp;<i>(141)</i> Ore: <b>10:24:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PONTEMILVIO(1)</i></font><font style='font-size: 8pt;'><br>Mastromattei Federico<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Scelba Giacomo<font style='font-size: 6pt;'>(SA)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					230</b>&nbsp;<i>(60)</i> Ore: <b>10:24:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PESCATE SC(1)</i></font><font style='font-size: 8pt;'><br>Crotta Ermanno<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Crotta Erminio<font style='font-size: 6pt;'>(JN)</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>25 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>DOPPIO Ragazzi F &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 2 mt. N.Eq. 25 N.Isc. 25)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					231</b>&nbsp;<i>(196)</i> Ore: <b>10:26:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ERIDANEA SC(1)</i></font><font style='font-size: 8pt;'><br>Grasselli Alessandra<font style='font-size: 8pt;'><br>Marca Elisa</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					232</b>&nbsp;<i>(56)</i> Ore: <b>10:27:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>URANIA(1)</i></font><font style='font-size: 8pt;'><br>Cacciacarne Valentina<font style='font-size: 8pt;'><br>Fanfani Martina</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					233</b>&nbsp;<i>(280)</i> Ore: <b>10:27:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VELOCIOR1883(1)</i></font><font style='font-size: 8pt;'><br>Pecunia Giada<font style='font-size: 8pt;'><br>Stella Giorgia</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					234</b>&nbsp;<i>(226)</i> Ore: <b>10:28:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ORBETELLO SC(1)</i></font><font style='font-size: 8pt;'><br>Coccoluto Gaia<font style='font-size: 8pt;'><br>Benedetti Simona</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					235</b>&nbsp;<i>(99)</i> Ore: <b>10:28:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CAPRERA SC(1)</i></font><font style='font-size: 8pt;'><br>Ricca Valentina<font style='font-size: 8pt;'><br>Demaria Elena</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					236</b>&nbsp;<i>(124)</i> Ore: <b>10:29:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ELPIS GENOVA(1)</i></font><font style='font-size: 8pt;'><br>Toscano Erica<font style='font-size: 8pt;'><br>Luppi Alice</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					237</b>&nbsp;<i>(203)</i> Ore: <b>10:29:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS TORINO(1)</i></font><font style='font-size: 8pt;'><br>Mangia Anna<font style='font-size: 8pt;'><br>Ferrari Cecilia</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					238</b>&nbsp;<i>(219)</i> Ore: <b>10:30:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CORGENO SC(1)</i></font><font style='font-size: 8pt;'><br>Benzoni Gloria<font style='font-size: 8pt;'><br>Colombo Ilaria</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					239</b>&nbsp;<i>(179)</i> Ore: <b>10:30:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>RAVENNA SC(1)</i></font><font style='font-size: 8pt;'><br>Dassani Agnese<font style='font-size: 8pt;'><br>Petruzzellis Chiara</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					240</b>&nbsp;<i>(319)</i> Ore: <b>10:31:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SAN GIORGIO(1)</i></font><font style='font-size: 8pt;'><br>Sguazzin Giulia<font style='font-size: 8pt;'><br>Marvucic Benedetta</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					241</b>&nbsp;<i>(298)</i> Ore: <b>10:31:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LIMITE SC(1)</i></font><font style='font-size: 8pt;'><br>Benigni Francesca<font style='font-size: 8pt;'><br>Dama Melisa</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					242</b>&nbsp;<i>(87)</i> Ore: <b>10:32:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ROWING GE(1)</i></font><font style='font-size: 8pt;'><br>Scionico Raissa<font style='font-size: 8pt;'><br>Sotgia Martina</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					243</b>&nbsp;<i>(313)</i> Ore: <b>10:32:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GAVIRATE(1)</i></font><font style='font-size: 8pt;'><br>Calabrese Vittoria<font style='font-size: 8pt;'><br>Spirito Aurora</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					244</b>&nbsp;<i>(136)</i> Ore: <b>10:33:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ITALIA CRV(1)</i></font><font style='font-size: 8pt;'><br>Guida Vittoria<font style='font-size: 8pt;'><br>Postolati Ilona</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					245</b>&nbsp;<i>(82)</i> Ore: <b>10:33:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LARIO  SC(1)</i></font><font style='font-size: 8pt;'><br>Grisoni Elisa<font style='font-size: 8pt;'><br>Girola Alice</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					246</b>&nbsp;<i>(25)</i> Ore: <b>10:34:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GARDA SALO'(1)</i></font><font style='font-size: 8pt;'><br>Tonoli Matilde<font style='font-size: 8pt;'><br>Bertanza Ilaria</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					247</b>&nbsp;<i>(220)</i> Ore: <b>10:34:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CORGENO SC(1)</i></font><font style='font-size: 8pt;'><br>Marcon Elisa<font style='font-size: 8pt;'><br>Sommavilla Sara</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					248</b>&nbsp;<i>(21)</i> Ore: <b>10:35:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PALERMO SC(1)</i></font><font style='font-size: 8pt;'><br>Scarpello Martina<font style='font-size: 8pt;'><br>Naselli Sofia</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					249</b>&nbsp;<i>(126)</i> Ore: <b>10:35:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SAN MINIATO(1)</i></font><font style='font-size: 8pt;'><br>Federici Alessia<font style='font-size: 8pt;'><br>Mori Aurora</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					250</b>&nbsp;<i>(130)</i> Ore: <b>10:36:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LAGOPUSIANO(1)</i></font><font style='font-size: 8pt;'><br>Testori Petra<font style='font-size: 8pt;'><br>Valsecchi Elena</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					251</b>&nbsp;<i>(289)</i> Ore: <b>10:36:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PONTEDERA SC(1)</i></font><font style='font-size: 8pt;'><br>Bianchi Isabella<font style='font-size: 8pt;'><br>Pettinari Alice</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					252</b>&nbsp;<i>(121)</i> Ore: <b>10:37:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MONATE AC(1)</i></font><font style='font-size: 8pt;'><br>Tassi Claudia<font style='font-size: 8pt;'><br>Bertola Manuela</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					253</b>&nbsp;<i>(109)</i> Ore: <b>10:37:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>RETICA CAN.(1)</i></font><font style='font-size: 8pt;'><br>Tedoldi Angelica<font style='font-size: 8pt;'><br>Gianatti Giulia</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					254</b>&nbsp;<i>(236)</i> Ore: <b>10:38:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GIACOMELLI(1)</i></font><font style='font-size: 8pt;'><br>Agostini Ginevra<font style='font-size: 8pt;'><br>De Martino Veronica</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					255</b>&nbsp;<i>(44)</i> Ore: <b>10:38:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>AMICI FIUME(1)</i></font><font style='font-size: 8pt;'><br>Ricchiardi Anna<font style='font-size: 8pt;'><br>Lee Rebecca</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>26 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>DOPPIO Esordienti F &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 22 mt. N.Eq. 3 N.Isc. 3)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					256</b>&nbsp;<i>(330)</i> Ore: <b>10:40:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ROWING GE(1)</i></font><font style='font-size: 8pt;'><br>Loiacono Clara<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Cavolata Aurora<font style='font-size: 6pt;'>(JN)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					257</b>&nbsp;<i>(307)</i> Ore: <b>10:41:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PADOVA SC(1)</i></font><font style='font-size: 8pt;'><br>Derlini Geila<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Secco Teresa<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					258</b>&nbsp;<i>(186)</i> Ore: <b>10:41:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VARESE SC(1)</i></font><font style='font-size: 8pt;'><br>Rotelli Mazzoccone Luna<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Castellano Michela<font style='font-size: 6pt;'>(JN)</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>27 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>QUATTRO SENZA Pesi Leggeri M &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 15 mt. N.Eq. 3 N.Isc. 3)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					259</b>&nbsp;<i>(148)</i> Ore: <b>11:40:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GAVIRATE(1)</i></font><font style='font-size: 8pt;'><br>Binda Alexis<font style='font-size: 6pt;'>(VX)<font style='font-size: 8pt;'><br>Lalicata Francesco Emilio<font style='font-size: 6pt;'>(VX)<font style='font-size: 8pt;'><br>Schwartz Massimo<font style='font-size: 6pt;'>(SA)<font style='font-size: 8pt;'><br>Benzoni Alessandro<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					260</b>&nbsp;<i>(170)</i> Ore: <b>11:40:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS PAVIA(1)</i></font><font style='font-size: 8pt;'><br>Venturini Marco<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>CassarÀ Gianluca<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Grassini Andrea<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Giuliani Andrea<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					261</b>&nbsp;<i>(279)</i> Ore: <b>11:41:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VELOCIOR1883(1)</i></font><font style='font-size: 8pt;'><br>Marcellini Nicolo'<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Pintus Giorgio<font style='font-size: 6pt;'>(SA)<font style='font-size: 8pt;'><br>Pennucci Elia<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Raimondi Thomas<font style='font-size: 6pt;'>(JN)</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div class='page'>
+				<table border="0" cellpadding="1" cellspacing="0" width="100%">
+					<tr><td  class='label10'>FEDERAZIONE ITALIANA CANOTTAGGIO <br><b>PROGRAMMA GARE </b></td>
+						<td><img src='bannerPROG.jpg'></td>
+						<td class='label10' align='left'><b>Regata del <br>25/01/2020 - 26/01/2020</b></td>
+					</tr>
+				</table><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>28 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>DOPPIO Pesi Leggeri M &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 13 mt. N.Eq. 23 N.Isc. 23)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					262</b>&nbsp;<i>(177)</i> Ore: <b>11:43:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>NETTUNO TS(1)</i></font><font style='font-size: 8pt;'><br>Gruden Janos<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Sofianopulo Konstantin<font style='font-size: 6pt;'>(JN)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					263</b>&nbsp;<i>(265)</i> Ore: <b>11:43:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MM SABAUDIA(1)</i></font><font style='font-size: 8pt;'><br>Soares Gabriel<font style='font-size: 6pt;'>(SA)<font style='font-size: 8pt;'><br>Vicino Antonio<font style='font-size: 6pt;'>(SA)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					264</b>&nbsp;<i>(72)</i> Ore: <b>11:44:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MONATE AC(1)</i></font><font style='font-size: 8pt;'><br>Zorzan Federico<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Dianin Matteo<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					265</b>&nbsp;<i>(166)</i> Ore: <b>11:44:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS PAVIA(1)</i></font><font style='font-size: 8pt;'><br>Bozzano Alessio<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Fois Lorenzo<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					266</b>&nbsp;<i>(168)</i> Ore: <b>11:45:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS PAVIA(1)</i></font><font style='font-size: 8pt;'><br>Molinari Tommaso<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Iacuitti Davide<font style='font-size: 6pt;'>(SA)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					267</b>&nbsp;<i>(221)</i> Ore: <b>11:45:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CORGENO SC(1)</i></font><font style='font-size: 8pt;'><br>Casola Sasha<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Salina Matteo<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					268</b>&nbsp;<i>(189)</i> Ore: <b>11:46:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VARESE SC(1)</i></font><font style='font-size: 8pt;'><br>Macchi Riccardo<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Tadiello Nicolas<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					269</b>&nbsp;<i>(83)</i> Ore: <b>11:46:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LARIO  SC(1)</i></font><font style='font-size: 8pt;'><br>Venini Michele<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Lahoud Omar<font style='font-size: 6pt;'>(SB)</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					270</b>&nbsp;<i>(201)</i> Ore: <b>11:47:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS TORINO(1)</i></font><font style='font-size: 8pt;'><br>Giacobbe Massimo<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Fois Lorenzo<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					271</b>&nbsp;<i>(33)</i> Ore: <b>11:47:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>TERNI CLT(1)</i></font><font style='font-size: 8pt;'><br>Mulas Matteo<font style='font-size: 6pt;'>(VX)<font style='font-size: 8pt;'><br>Tonelli Matteo<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					272</b>&nbsp;<i>(7)</i> Ore: <b>11:48:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>TEVERE REMO(1)</i></font><font style='font-size: 8pt;'><br>Massai Leonardo<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Battigaglia Giorgio<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					273</b>&nbsp;<i>(94)</i> Ore: <b>11:48:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>URANIA(1)</i></font><font style='font-size: 8pt;'><br>Corradino Ottaviano<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Nino Matteo<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					274</b>&nbsp;<i>(159)</i> Ore: <b>11:49:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>AMICI FIUME(1)</i></font><font style='font-size: 8pt;'><br>Sessa Francesco<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Demagistris Umberto<font style='font-size: 6pt;'>(VX)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					275</b>&nbsp;<i>(195)</i> Ore: <b>11:49:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ARNO SC(1)</i></font><font style='font-size: 8pt;'><br>Magni Lorenzo<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Irrera Massimiliano<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					276</b>&nbsp;<i>(228)</i> Ore: <b>11:50:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LAURIA CCR(1)</i></font><font style='font-size: 8pt;'><br>Armetta Francesco<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Benigno Andrea<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					277</b>&nbsp;<i>(229)</i> Ore: <b>11:50:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LAURIA CCR(1)</i></font><font style='font-size: 8pt;'><br>Barraja Armando<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Leo Riccardo<font style='font-size: 6pt;'>(SB)</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					278</b>&nbsp;<i>(71)</i> Ore: <b>11:51:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MONATE AC(1)</i></font><font style='font-size: 8pt;'><br>Carrozzo Giorgio<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Comodo NicolÒ<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					279</b>&nbsp;<i>(93)</i> Ore: <b>11:51:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>URANIA(1)</i></font><font style='font-size: 8pt;'><br>Nicolini Dario<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Uccheddu Marco<font style='font-size: 6pt;'>(JN)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					280</b>&nbsp;<i>(131)</i> Ore: <b>11:52:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>RETICA CAN.(1)</i></font><font style='font-size: 8pt;'><br>Curti Sebastiano<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Rossotti Cristopher<font style='font-size: 6pt;'>(JN)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					281</b>&nbsp;<i>(167)</i> Ore: <b>11:52:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS PAVIA(1)</i></font><font style='font-size: 8pt;'><br>Cardinali Andrea<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Fusaro Simone<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					282</b>&nbsp;<i>(272)</i> Ore: <b>11:53:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LIVORNESI UC(1)</i></font><font style='font-size: 8pt;'><br>Toni Alessandro<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Mazzinghi Nicola<font style='font-size: 6pt;'>(VX)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					283</b>&nbsp;<i>(101)</i> Ore: <b>11:53:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CEREA  SC(1)</i></font><font style='font-size: 8pt;'><br>Zamariola Alberto<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Rotta Arturo<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					284</b>&nbsp;<i>(76)</i> Ore: <b>11:54:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MOTO GUZZI(1)</i></font><font style='font-size: 8pt;'><br>Mantegazza Simone<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Fasoli Simone<font style='font-size: 6pt;'>(SB)</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>29 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>DOPPIO Senior A M &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 17 mt. N.Eq. 9 N.Isc. 9)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					285</b>&nbsp;<i>(188)</i> Ore: <b>11:56:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VARESE SC(1)</i></font><font style='font-size: 8pt;'><br>Corti Andrea<font style='font-size: 6pt;'>(VX)<font style='font-size: 8pt;'><br>Radice Emanuele<font style='font-size: 6pt;'>(VX)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					286</b>&nbsp;<i>(2000)</i> Ore: <b>11:56:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ISR(1)</i></font><font style='font-size: 8pt;'><br>Dubitsky Daniel<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Fridman Dani<font style='font-size: 6pt;'>(VX)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					287</b>&nbsp;<i>(325)</i> Ore: <b>11:57:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VIAREGGIO(1)</i></font><font style='font-size: 8pt;'><br>Torre Niels Alexander<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Pison Gioele<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					288</b>&nbsp;<i>(75)</i> Ore: <b>11:57:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MONATE AC(1)</i></font><font style='font-size: 8pt;'><br>Verita' Corrado<font style='font-size: 6pt;'>(VX)<font style='font-size: 8pt;'><br>VeritÀ Davide<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					289</b>&nbsp;<i>(266)</i> Ore: <b>11:58:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MM SABAUDIA(1)</i></font><font style='font-size: 8pt;'><br>Amarante Catello<font style='font-size: 6pt;'>(VX)<font style='font-size: 8pt;'><br>Maestrale Andrea</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					291</b>&nbsp;<i>(332)</i> Ore: <b>11:59:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS FERRARA(1)</i></font><font style='font-size: 8pt;'><br>Benini Giacomo<font style='font-size: 6pt;'>(VX)<font style='font-size: 8pt;'><br>Venturi Riccardo<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					292</b>&nbsp;<i>(274)</i> Ore: <b>11:59:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PADOVA SC(1)</i></font><font style='font-size: 8pt;'><br>Martini Simone<font style='font-size: 6pt;'>(VX)<font style='font-size: 8pt;'><br>De Lucchi Giacomo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					293</b>&nbsp;<i>(42)</i> Ore: <b>12:00:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>TIRRENIA TOD(1)</i></font><font style='font-size: 8pt;'><br>Barbaro Leone Maria<font style='font-size: 6pt;'>(VX)<font style='font-size: 8pt;'><br>Gentile Benedetto<font style='font-size: 6pt;'>(SB)</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					294</b>&nbsp;<i>(235)</i> Ore: <b>12:00:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PADOVACANOTT(1)</i></font><font style='font-size: 8pt;'><br>Donadello Claudio<font style='font-size: 6pt;'>(S3)<font style='font-size: 8pt;'><br>Polito Luca<font style='font-size: 6pt;'>(JN)</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div class='page'>
+				<table border="0" cellpadding="1" cellspacing="0" width="100%">
+					<tr><td  class='label10'>FEDERAZIONE ITALIANA CANOTTAGGIO <br><b>PROGRAMMA GARE </b></td>
+						<td><img src='bannerPROG.jpg'></td>
+						<td class='label10' align='left'><b>Regata del <br>25/01/2020 - 26/01/2020</b></td>
+					</tr>
+				</table><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>30 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>QUATTRO SENZA Ragazzi M &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 3 mt. N.Eq. 19 N.Isc. 19)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					295</b>&nbsp;<i>(13)</i> Ore: <b>12:02:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>FIRENZE SC(1)</i></font><font style='font-size: 8pt;'><br>Chiappi Cosimo<font style='font-size: 8pt;'><br>Ferrini Mattia<font style='font-size: 8pt;'><br>Bizzarri Marco<font style='font-size: 8pt;'><br>Pagliaro Guido</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					296</b>&nbsp;<i>(19)</i> Ore: <b>12:03:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VARESE SC(1)</i></font><font style='font-size: 8pt;'><br>Pavesi Guglielmo<font style='font-size: 8pt;'><br>Isella Edoardo<font style='font-size: 8pt;'><br>Cifani Riccardo<font style='font-size: 8pt;'><br>Santini Federico</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					297</b>&nbsp;<i>(247)</i> Ore: <b>12:03:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>BALDESIO(1)</i></font><font style='font-size: 8pt;'><br>Genzini Tommaso<font style='font-size: 8pt;'><br>Gregori Paolo<font style='font-size: 8pt;'><br>Lusiardi Matteo<font style='font-size: 8pt;'><br>Pedroni Riccardo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					298</b>&nbsp;<i>(248)</i> Ore: <b>12:04:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>BALDESIO(1)</i></font><font style='font-size: 8pt;'><br>Cigoli Cristian Camilo<font style='font-size: 8pt;'><br>Contardi Giacomo<font style='font-size: 8pt;'><br>Barborini Andrea<font style='font-size: 8pt;'><br>Favini Bernardo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					299</b>&nbsp;<i>(185)</i> Ore: <b>12:04:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VARESE SC(1)</i></font><font style='font-size: 8pt;'><br>Ossola Lorenzo<font style='font-size: 8pt;'><br>Bertino Luca<font style='font-size: 8pt;'><br>Di Gioia Davide<font style='font-size: 8pt;'><br>Gibbs Leonardo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					300</b>&nbsp;<i>(114)</i> Ore: <b>12:05:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VVF BILLI(1)</i></font><font style='font-size: 8pt;'><br>Miccoli Simone<font style='font-size: 8pt;'><br>Papini Gabriele<font style='font-size: 8pt;'><br>Pioli Leonardo<font style='font-size: 8pt;'><br>Pratelli Nicola</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					301</b>&nbsp;<i>(80)</i> Ore: <b>12:05:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LARIO  SC(1)</i></font><font style='font-size: 8pt;'><br>Marelli Nicolo' Gabrie<font style='font-size: 8pt;'><br>Martorana Federico<font style='font-size: 8pt;'><br>Briccola Alberto<font style='font-size: 8pt;'><br>Cassani Ludovico</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					302</b>&nbsp;<i>(285)</i> Ore: <b>12:06:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PONTEDERA SC(1)</i></font><font style='font-size: 8pt;'><br>Menicagli Gregorio<font style='font-size: 8pt;'><br>Filidei Leonardo<font style='font-size: 8pt;'><br>Bonsignori Lorenzo<font style='font-size: 8pt;'><br>Calvani Francesco</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					303</b>&nbsp;<i>(268)</i> Ore: <b>12:06:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>IRNO C.C.(1)</i></font><font style='font-size: 8pt;'><br>Cozzolino Raffaele<font style='font-size: 8pt;'><br>Iannicelli Pietro<font style='font-size: 8pt;'><br>Bottigliero Andrea<font style='font-size: 8pt;'><br>Delli Carri Giorgio</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					304</b>&nbsp;<i>(255)</i> Ore: <b>12:07:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LIMITE SC(1)</i></font><font style='font-size: 8pt;'><br>Busoni Edoardo<font style='font-size: 8pt;'><br>Rimoli Matteo<font style='font-size: 8pt;'><br>Del Rosso Edoardo<font style='font-size: 8pt;'><br>Morelli Dario</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					305</b>&nbsp;<i>(282)</i> Ore: <b>12:07:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VELOCIOR1883(1)</i></font><font style='font-size: 8pt;'><br>Esposito Filippo<font style='font-size: 8pt;'><br>Lucchinelli Andrea<font style='font-size: 8pt;'><br>Grossi Gabriele<font style='font-size: 8pt;'><br>Landi Francesco</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					306</b>&nbsp;<i>(98)</i> Ore: <b>12:08:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CAPRERA SC(1)</i></font><font style='font-size: 8pt;'><br>Pittro Leonardo<font style='font-size: 8pt;'><br>Crua Alessandro Maria<font style='font-size: 8pt;'><br>Dequal Simone<font style='font-size: 8pt;'><br>SansÒ Bravetta Antonio</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					307</b>&nbsp;<i>(46)</i> Ore: <b>12:08:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>AMICI FIUME(1)</i></font><font style='font-size: 8pt;'><br>Bianco Pietro<font style='font-size: 8pt;'><br>Picco Filippo<font style='font-size: 8pt;'><br>Filippa Edoardo Giusep<font style='font-size: 8pt;'><br>Spina Francesco</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					308</b>&nbsp;<i>(118)</i> Ore: <b>12:09:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LA SPORTIVA(1)</i></font><font style='font-size: 8pt;'><br>Gandola Luca<font style='font-size: 8pt;'><br>Sala Jacopo<font style='font-size: 8pt;'><br>Valerio Pietro<font style='font-size: 8pt;'><br>Valvassori Riccardo Ya</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					309</b>&nbsp;<i>(113)</i> Ore: <b>12:09:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>TIMAVO SC(1)</i></font><font style='font-size: 8pt;'><br>Stoppani Alessandro<font style='font-size: 8pt;'><br>Camarotto Luca<font style='font-size: 8pt;'><br>Venier Francesco<font style='font-size: 8pt;'><br>Zennaro Mattia</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					310</b>&nbsp;<i>(242)</i> Ore: <b>12:10:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SAVOIA R YC(1)</i></font><font style='font-size: 8pt;'><br>Maddaloni Giorgio<font style='font-size: 8pt;'><br>Capezza Renato<font style='font-size: 8pt;'><br>Zaffiro Santo<font style='font-size: 8pt;'><br>Sglavo Alessandro</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					311</b>&nbsp;<i>(134)</i> Ore: <b>12:10:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ITALIA CRV(1)</i></font><font style='font-size: 8pt;'><br>Vicino Marco<font style='font-size: 8pt;'><br>Vicino Luca<font style='font-size: 8pt;'><br>Russo Antonio<font style='font-size: 8pt;'><br>Turchetti Thomas</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					312</b>&nbsp;<i>(243)</i> Ore: <b>12:11:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MURCAROLO SS(1)</i></font><font style='font-size: 8pt;'><br>Melegari Guglielmo<font style='font-size: 8pt;'><br>Caprile Lorenzo<font style='font-size: 8pt;'><br>Cantilonne Samuel<font style='font-size: 8pt;'><br>Vinci Stefano</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					313</b>&nbsp;<i>(64)</i> Ore: <b>12:11:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SAMPIERD SC(1)</i></font><font style='font-size: 8pt;'><br>Cappagli Martino<font style='font-size: 8pt;'><br>Galtieri Simone<font style='font-size: 8pt;'><br>Gilioli Federico<font style='font-size: 8pt;'><br>Serafino Lorenzo</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>31 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>QUATTRO SENZA Senior A F &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 20 mt. N.Eq. 3 N.Isc. 3)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					314</b>&nbsp;<i>(315)</i> Ore: <b>12:13:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ACCADEMIA LI(1)</i></font><font style='font-size: 8pt;'><br>Bartoli Elena<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Fiume Ilenia<font style='font-size: 6pt;'>(VX)<font style='font-size: 8pt;'><br>Latini Anna<font style='font-size: 8pt;'><br>Romitelli Catharina</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					315</b>&nbsp;<i>(41)</i> Ore: <b>12:14:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ARNO SC(1)</i></font><font style='font-size: 8pt;'><br>Caverni Sarah<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Di Pede Chiara<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Terrazzi Silvia<font style='font-size: 8pt;'><br>Massaria Clara<font style='font-size: 6pt;'>(JN)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					316</b>&nbsp;<i>(299)</i> Ore: <b>12:14:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LARIO  SC(1)</i></font><font style='font-size: 8pt;'><br>Di Fonzo Caterina<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Mossi Serena<font style='font-size: 6pt;'>(JN)<font style='font-size: 8pt;'><br>Vanini Carolina<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Compagnoni Ilaria<font style='font-size: 6pt;'>(SB)</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>32 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>QUATTRO SENZA Pesi Leggeri F &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 16 mt. N.Eq. 2 N.Isc. 2)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					317</b>&nbsp;<i>(67)</i> Ore: <b>12:16:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ROWING GE(1)</i></font><font style='font-size: 8pt;'><br>Tanghetti Sofia<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Cozzarini Annalisa<font style='font-size: 6pt;'>(VX)<font style='font-size: 8pt;'><br>Russi Francesca<font style='font-size: 6pt;'>(VX)<font style='font-size: 8pt;'><br>Costa Maria Ludovica<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					318</b>&nbsp;<i>(154)</i> Ore: <b>12:17:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GAVIRATE(1)</i></font><font style='font-size: 8pt;'><br>Salice Giorgia<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Borghi Sara<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Tomassini Maria<font style='font-size: 6pt;'>(SA)<font style='font-size: 8pt;'><br>Mondini Isabella<font style='font-size: 6pt;'>(SB)</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>33 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>DOPPIO Pesi Leggeri F &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 14 mt. N.Eq. 3 N.Isc. 3)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					319</b>&nbsp;<i>(139)</i> Ore: <b>12:19:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>FIAMME ROSSE(1)</i></font><font style='font-size: 8pt;'><br>Noseda Arianna<font style='font-size: 6pt;'>(SA)<font style='font-size: 8pt;'><br>Piazzolla Paola<font style='font-size: 6pt;'>(SA)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					320</b>&nbsp;<i>(210)</i> Ore: <b>12:19:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SATURNIA CC(1)</i></font><font style='font-size: 8pt;'><br>Pelloni Bianca Laura<font style='font-size: 6pt;'>(SA)<font style='font-size: 8pt;'><br>Zerboni Maria Elena<font style='font-size: 6pt;'>(SB)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					321</b>&nbsp;<i>(91)</i> Ore: <b>12:20:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VARESE SC(1)</i></font><font style='font-size: 8pt;'><br>Bulgheroni Benedetta<font style='font-size: 6pt;'>(SB)<font style='font-size: 8pt;'><br>Lucchina Rebecca<font style='font-size: 6pt;'>(JN)</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div class='page'>
+				<table border="0" cellpadding="1" cellspacing="0" width="100%">
+					<tr><td  class='label10'>FEDERAZIONE ITALIANA CANOTTAGGIO <br><b>PROGRAMMA GARE </b></td>
+						<td><img src='bannerPROG.jpg'></td>
+						<td class='label10' align='left'><b>Regata del <br>25/01/2020 - 26/01/2020</b></td>
+					</tr>
+				</table><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>36 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>QUATTRO SENZA Junior M &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 7 mt. N.Eq. 17 N.Isc. 17)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					330</b>&nbsp;<i>(16)</i> Ore: <b>13:30:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>FIRENZE SC(1)</i></font><font style='font-size: 8pt;'><br>Codecasa Gabriele<font style='font-size: 8pt;'><br>Filippi Daniel<font style='font-size: 8pt;'><br>Delia Domenico<font style='font-size: 8pt;'><br>Aterini Tommaso</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					331</b>&nbsp;<i>(50)</i> Ore: <b>13:30:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MURCAROLO SS(1)</i></font><font style='font-size: 8pt;'><br>Melegari Giovanni<font style='font-size: 8pt;'><br>Cerruti Tommaso<font style='font-size: 8pt;'><br>Licatalosi Andrea<font style='font-size: 8pt;'><br>Sitia Pietro</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					332</b>&nbsp;<i>(160)</i> Ore: <b>13:31:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GAVIRATE(1)</i></font><font style='font-size: 8pt;'><br>Coppa Massimiliano Xav<font style='font-size: 8pt;'><br>Bizzozero Nicolo'<font style='font-size: 8pt;'><br>Timpanaro Alessandro<font style='font-size: 8pt;'><br>Ferla Christian</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					333</b>&nbsp;<i>(63)</i> Ore: <b>13:31:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SAMPIERD SC(1)</i></font><font style='font-size: 8pt;'><br>Corsinovi Riccardo<font style='font-size: 8pt;'><br>Carrozzino Luca<font style='font-size: 8pt;'><br>Maspero Michele<font style='font-size: 8pt;'><br>Polleri Alessandro</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					334</b>&nbsp;<i>(133)</i> Ore: <b>13:32:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ITALIA CRV(1)</i></font><font style='font-size: 8pt;'><br>Caliendo Emanuele<font style='font-size: 8pt;'><br>Sorbino Mattia Frances<font style='font-size: 8pt;'><br>Villella Ronald Raoul<font style='font-size: 8pt;'><br>Corace Francesco</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					335</b>&nbsp;<i>(20)</i> Ore: <b>13:32:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PALERMO SC(1)</i></font><font style='font-size: 8pt;'><br>Zerilli Mario Pietro<font style='font-size: 8pt;'><br>Lo Bue Francesco<font style='font-size: 8pt;'><br>Sciara Walter<font style='font-size: 8pt;'><br>Francaviglia Luca</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					336</b>&nbsp;<i>(88)</i> Ore: <b>13:33:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ROWING GE(1)</i></font><font style='font-size: 8pt;'><br>Brissolari Filippo<font style='font-size: 8pt;'><br>Chiappini Andrea<font style='font-size: 8pt;'><br>Devoli Andrea<font style='font-size: 8pt;'><br>Sanna Simone</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					338</b>&nbsp;<i>(18)</i> Ore: <b>13:34:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VARESE SC(1)</i></font><font style='font-size: 8pt;'><br>Crugnola Alessandro<font style='font-size: 8pt;'><br>Demiliani NicolÒ<font style='font-size: 8pt;'><br>Morello Lorenzo<font style='font-size: 8pt;'><br>Parenzan Matteo</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					339</b>&nbsp;<i>(6)</i> Ore: <b>13:34:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>TEVERE REMO(1)</i></font><font style='font-size: 8pt;'><br>Riccomini Valerio<font style='font-size: 8pt;'><br>Bonotti Andrea<font style='font-size: 8pt;'><br>Teloni Tommaso<font style='font-size: 6pt;'>(GR)<font style='font-size: 8pt;'><br>Sodano Emanuele<font style='font-size: 6pt;'>(GR)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					340</b>&nbsp;<i>(78)</i> Ore: <b>13:35:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MOTO GUZZI(1)</i></font><font style='font-size: 8pt;'><br>Leandri Samuele<font style='font-size: 8pt;'><br>Leandri Simone<font style='font-size: 8pt;'><br>Micheli Mattia<font style='font-size: 8pt;'><br>Alippi Gabriele</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					341</b>&nbsp;<i>(68)</i> Ore: <b>13:35:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ARMIDA SC(1)</i></font><font style='font-size: 8pt;'><br>Gardino Alessandro<font style='font-size: 8pt;'><br>Barbagiovanni Giuseppe<font style='font-size: 8pt;'><br>Pappalettera Emilio<font style='font-size: 8pt;'><br>Sassi Emile</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					342</b>&nbsp;<i>(287)</i> Ore: <b>13:36:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PONTEDERA SC(1)</i></font><font style='font-size: 8pt;'><br>Del Corso Cosimo<font style='font-size: 6pt;'>(GR)<font style='font-size: 8pt;'><br>Mancini Nicola<font style='font-size: 6pt;'>(GR)<font style='font-size: 8pt;'><br>Olivieri Pietro<font style='font-size: 8pt;'><br>Garruccio Francesco<font style='font-size: 6pt;'>(GR)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					343</b>&nbsp;<i>(318)</i> Ore: <b>13:36:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SAN GIORGIO(1)</i></font><font style='font-size: 8pt;'><br>Pinzini Davide<font style='font-size: 8pt;'><br>Dri Marco<font style='font-size: 6pt;'>(GR)<font style='font-size: 8pt;'><br>Ruggiero Walter<font style='font-size: 8pt;'><br>Braidotti Luca</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					344</b>&nbsp;<i>(119)</i> Ore: <b>13:37:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MM SABAUDIA(1)</i></font><font style='font-size: 8pt;'><br>D'agostini Stefano<font style='font-size: 8pt;'><br>Favero Luigi<font style='font-size: 8pt;'><br>Fontanella Michele<font style='font-size: 8pt;'><br>Maron Krystian Adrian</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					345</b>&nbsp;<i>(281)</i> Ore: <b>13:37:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VELOCIOR1883(1)</i></font><font style='font-size: 8pt;'><br>Peghini Marco<font style='font-size: 8pt;'><br>Greco Francesco<font style='font-size: 8pt;'><br>Bertonati Edoardo<font style='font-size: 8pt;'><br>Mascolo Daniele</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					346</b>&nbsp;<i>(69)</i> Ore: <b>13:38:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ARMIDA SC(2)</i></font><font style='font-size: 8pt;'><br>Barbero Pietro<font style='font-size: 8pt;'><br>Fantechi Alessandro<font style='font-size: 8pt;'><br>Garbo Andrea<font style='font-size: 8pt;'><br>Giannarelli Elia</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					348</b>&nbsp;<i>(86)</i> Ore: <b>13:39:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LARIO  SC(1)</i></font><font style='font-size: 8pt;'><br>Campioni Giulio<font style='font-size: 8pt;'><br>Leoni Paolo<font style='font-size: 8pt;'><br>Luisetti Lorenzo Franc<font style='font-size: 8pt;'><br>Castino Emanuele</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div class='page'>
+				<table border="0" cellpadding="1" cellspacing="0" width="100%">
+					<tr><td  class='label10'>FEDERAZIONE ITALIANA CANOTTAGGIO <br><b>PROGRAMMA GARE </b></td>
+						<td><img src='bannerPROG.jpg'></td>
+						<td class='label10' align='left'><b>Regata del <br>25/01/2020 - 26/01/2020</b></td>
+					</tr>
+				</table><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>37 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>DOPPIO Ragazzi M &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 1 mt. N.Eq. 49 N.Isc. 49)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					349</b>&nbsp;<i>(24)</i> Ore: <b>13:41:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GARDA SALO'(1)</i></font><font style='font-size: 8pt;'><br>Distaso Emanuele<font style='font-size: 8pt;'><br>Apollonio Andrea</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					350</b>&nbsp;<i>(240)</i> Ore: <b>13:41:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ARNO SC(1)</i></font><font style='font-size: 8pt;'><br>Scatena Edoardo<font style='font-size: 8pt;'><br>Paolicchi Nicola</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					351</b>&nbsp;<i>(184)</i> Ore: <b>13:42:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>NAPOLI CC(1)</i></font><font style='font-size: 8pt;'><br>Viggiani Andrea<font style='font-size: 8pt;'><br>Esposito Emanuele</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					352</b>&nbsp;<i>(273)</i> Ore: <b>13:42:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>BALDESIO(1)</i></font><font style='font-size: 8pt;'><br>Beltrami Francesco<font style='font-size: 8pt;'><br>Gregorio Loris</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					353</b>&nbsp;<i>(174)</i> Ore: <b>13:43:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS BARI(1)</i></font><font style='font-size: 8pt;'><br>Barletta Davide<font style='font-size: 8pt;'><br>Cicinelli Andrea</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					354</b>&nbsp;<i>(202)</i> Ore: <b>13:43:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS TORINO(1)</i></font><font style='font-size: 8pt;'><br>Tarro Genta Matteo<font style='font-size: 8pt;'><br>Carbonatto Edoardo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					355</b>&nbsp;<i>(116)</i> Ore: <b>13:44:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>POSILLIPO CN(1)</i></font><font style='font-size: 8pt;'><br>Chierchia Ferdinando<font style='font-size: 8pt;'><br>Piovesana Davide Salva</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					356</b>&nbsp;<i>(135)</i> Ore: <b>13:44:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ITALIA CRV(1)</i></font><font style='font-size: 8pt;'><br>Froncillo Domenico Luc<font style='font-size: 8pt;'><br>Merlino Andrea</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					357</b>&nbsp;<i>(194)</i> Ore: <b>13:45:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ERIDANEA SC(1)</i></font><font style='font-size: 8pt;'><br>Invernizzi Carlo<font style='font-size: 8pt;'><br>Brambilla Maichol</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					358</b>&nbsp;<i>(227)</i> Ore: <b>13:45:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GIACOMELLI(1)</i></font><font style='font-size: 8pt;'><br>Berni Giulio<font style='font-size: 8pt;'><br>Carmignani Tommaso</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					359</b>&nbsp;<i>(65)</i> Ore: <b>13:46:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SAMPIERD SC(1)</i></font><font style='font-size: 8pt;'><br>Reasso Lorenzo<font style='font-size: 8pt;'><br>Sella Christian</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					360</b>&nbsp;<i>(276)</i> Ore: <b>13:46:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PADOVA SC(1)</i></font><font style='font-size: 8pt;'><br>Dola Matteo<font style='font-size: 8pt;'><br>Varotto Giulio Stefano</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					361</b>&nbsp;<i>(333)</i> Ore: <b>13:47:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS FERRARA(1)</i></font><font style='font-size: 8pt;'><br>Dinardo Luca<font style='font-size: 8pt;'><br>Pinotti Sebastiano</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					362</b>&nbsp;<i>(211)</i> Ore: <b>13:47:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SATURNIA CC(1)</i></font><font style='font-size: 8pt;'><br>Morri Leonardo<font style='font-size: 8pt;'><br>Forcellini Pietro</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					363</b>&nbsp;<i>(163)</i> Ore: <b>13:48:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SPERANZA(1)</i></font><font style='font-size: 8pt;'><br>Bozzano Luigi Olivo<font style='font-size: 8pt;'><br>Zini Davide</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					364</b>&nbsp;<i>(162)</i> Ore: <b>13:48:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SPERANZA(1)</i></font><font style='font-size: 8pt;'><br>Brusutti Sebastian<font style='font-size: 8pt;'><br>Bertagna Giacomo</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					365</b>&nbsp;<i>(51)</i> Ore: <b>13:49:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PONTEMILVIO(1)</i></font><font style='font-size: 8pt;'><br>Annibaldi Brando<font style='font-size: 8pt;'><br>Brandano Giacomo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					367</b>&nbsp;<i>(310)</i> Ore: <b>13:50:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS TORINO(1)</i></font><font style='font-size: 8pt;'><br>Aprile Emiliano<font style='font-size: 8pt;'><br>Carabelli Federico</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					368</b>&nbsp;<i>(146)</i> Ore: <b>13:50:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GAVIRATE(1)</i></font><font style='font-size: 8pt;'><br>Caru' Lorenzo<font style='font-size: 8pt;'><br>Mazzardis Erwin</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					369</b>&nbsp;<i>(164)</i> Ore: <b>13:51:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SPERANZA(1)</i></font><font style='font-size: 8pt;'><br>Iaia Lorenzo<font style='font-size: 8pt;'><br>Arpe Daniel</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					370</b>&nbsp;<i>(36)</i> Ore: <b>13:51:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PALERMO SC(1)</i></font><font style='font-size: 8pt;'><br>Civiletto Angelo Maria<font style='font-size: 8pt;'><br>Puglia Pietro</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					371</b>&nbsp;<i>(239)</i> Ore: <b>13:52:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ARNO SC(1)</i></font><font style='font-size: 8pt;'><br>Gadducci Matteo<font style='font-size: 8pt;'><br>Schettini Valerio</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					372</b>&nbsp;<i>(73)</i> Ore: <b>13:52:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MONATE AC(1)</i></font><font style='font-size: 8pt;'><br>Sangalli Matteo Dante<font style='font-size: 8pt;'><br>Piccinelli Pierpaolo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					373</b>&nbsp;<i>(147)</i> Ore: <b>13:53:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GAVIRATE(1)</i></font><font style='font-size: 8pt;'><br>Luraghi Marco<font style='font-size: 8pt;'><br>Martinoia Matteo</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					374</b>&nbsp;<i>(178)</i> Ore: <b>13:53:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>RAVENNA SC(1)</i></font><font style='font-size: 8pt;'><br>Ghetti Valerio<font style='font-size: 8pt;'><br>Prati Marco</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					376</b>&nbsp;<i>(5)</i> Ore: <b>13:54:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CAVALLINI(1)</i></font><font style='font-size: 8pt;'><br>Bacci Nicolo'<font style='font-size: 8pt;'><br>Meliani Emanuele</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					377</b>&nbsp;<i>(58)</i> Ore: <b>13:55:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>URANIA(1)</i></font><font style='font-size: 8pt;'><br>Fossa Riccardo<font style='font-size: 8pt;'><br>Frisoni NicolÒ</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					378</b>&nbsp;<i>(110)</i> Ore: <b>13:55:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>RETICA CAN.(1)</i></font><font style='font-size: 8pt;'><br>Fallini Giovanni<font style='font-size: 8pt;'><br>Sandrini Simone</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					379</b>&nbsp;<i>(335)</i> Ore: <b>13:56:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CAPRERA SC(1)</i></font><font style='font-size: 8pt;'><br>Ghebbano Matteo<font style='font-size: 8pt;'><br>Nicola Sergio</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					380</b>&nbsp;<i>(283)</i> Ore: <b>13:56:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VELOCIOR1883(1)</i></font><font style='font-size: 8pt;'><br>Mori Biagio<font style='font-size: 8pt;'><br>Mancini Lorenzo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					381</b>&nbsp;<i>(308)</i> Ore: <b>13:57:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LNI SESTRI P(1)</i></font><font style='font-size: 8pt;'><br>Flores Mathew<font style='font-size: 8pt;'><br>Graffione Francesco</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					382</b>&nbsp;<i>(97)</i> Ore: <b>13:57:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CAPRERA SC(1)</i></font><font style='font-size: 8pt;'><br>Abbate Riccardo<font style='font-size: 8pt;'><br>Enrico Gabriele</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					383</b>&nbsp;<i>(52)</i> Ore: <b>13:58:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PONTEMILVIO(1)</i></font><font style='font-size: 8pt;'><br>Gentiloni Silveri Giov<font style='font-size: 8pt;'><br>Tersigni Filippo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					385</b>&nbsp;<i>(143)</i> Ore: <b>13:59:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>URANIA(1)</i></font><font style='font-size: 8pt;'><br>Bozzano Valentino<font style='font-size: 8pt;'><br>Gazzini Lorenzo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					386</b>&nbsp;<i>(311)</i> Ore: <b>13:59:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS TORINO(1)</i></font><font style='font-size: 8pt;'><br>Aramu Marco<font style='font-size: 8pt;'><br>Bassani Pietro</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					387</b>&nbsp;<i>(61)</i> Ore: <b>14:00:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CANDIA2010(1)</i></font><font style='font-size: 8pt;'><br>Addabbo Matteo<font style='font-size: 8pt;'><br>Poso Andrea</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					388</b>&nbsp;<i>(45)</i> Ore: <b>14:00:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>AMICI FIUME(1)</i></font><font style='font-size: 8pt;'><br>Gianni Simone<font style='font-size: 8pt;'><br>Bardo Fabio</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					389</b>&nbsp;<i>(320)</i> Ore: <b>14:01:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SAN GIORGIO(1)</i></font><font style='font-size: 8pt;'><br>Fabbian Mattia<font style='font-size: 8pt;'><br>Fabro Simone</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					390</b>&nbsp;<i>(321)</i> Ore: <b>14:01:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CUS CATANIA(1)</i></font><font style='font-size: 8pt;'><br>Rosalia Vito<font style='font-size: 8pt;'><br>Sichili Umberto</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					391</b>&nbsp;<i>(89)</i> Ore: <b>14:02:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>VARESE SC(1)</i></font><font style='font-size: 8pt;'><br>Mulas Luca Enea<font style='font-size: 8pt;'><br>Pappalardo Giacomo</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					392</b>&nbsp;<i>(81)</i> Ore: <b>14:02:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LARIO  SC(1)</i></font><font style='font-size: 8pt;'><br>Imperiali Davide<font style='font-size: 8pt;'><br>Tenore Roberto</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					393</b>&nbsp;<i>(120)</i> Ore: <b>14:03:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MM SABAUDIA(1)</i></font><font style='font-size: 8pt;'><br>Servedio Davide<font style='font-size: 8pt;'><br>Sozzi Ettore</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					394</b>&nbsp;<i>(192)</i> Ore: <b>14:03:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ERIDANEA SC(2)</i></font><font style='font-size: 8pt;'><br>Canevarolo Marco<font style='font-size: 8pt;'><br>El Ghadifi Zakaria</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					395</b>&nbsp;<i>(123)</i> Ore: <b>14:04:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ELPIS GENOVA(1)</i></font><font style='font-size: 8pt;'><br>Carbone Daniele<font style='font-size: 8pt;'><br>Silvatici Matteo</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					396</b>&nbsp;<i>(225)</i> Ore: <b>14:04:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ORBETELLO SC(1)</i></font><font style='font-size: 8pt;'><br>Ballini Mattia<font style='font-size: 8pt;'><br>De Maria Pietro</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					397</b>&nbsp;<i>(102)</i> Ore: <b>14:05:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CEREA  SC(1)</i></font><font style='font-size: 8pt;'><br>Garbo Matteo<font style='font-size: 8pt;'><br>Tedeschi Vittorio Isai</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					398</b>&nbsp;<i>(48)</i> Ore: <b>14:05:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CANNOBIO(1)</i></font><font style='font-size: 8pt;'><br>Pellegrini Joel<font style='font-size: 8pt;'><br>Marzilli Dario</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					399</b>&nbsp;<i>(230)</i> Ore: <b>14:06:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PRO MONOPOLI(1)</i></font><font style='font-size: 8pt;'><br>Console Emanuele<font style='font-size: 8pt;'><br>Perrotta Francesco</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					400</b>&nbsp;<i>(129)</i> Ore: <b>14:06:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LAGOPUSIANO(1)</i></font><font style='font-size: 8pt;'><br>Caldara Manuel<font style='font-size: 8pt;'><br>ZuccalÀ Giulio</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>38 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>QUATTRO SENZA Junior F &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 8 mt. N.Eq. 5 N.Isc. 5)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					401</b>&nbsp;<i>(176)</i> Ore: <b>14:08:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>NETTUNO TS(1)</i></font><font style='font-size: 8pt;'><br>Barnaba' Matilde<font style='font-size: 8pt;'><br>Doglia Petra<font style='font-size: 8pt;'><br>De Cleva Anna<font style='font-size: 8pt;'><br>Hrovatin Teresa</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					402</b>&nbsp;<i>(153)</i> Ore: <b>14:09:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GAVIRATE(1)</i></font><font style='font-size: 8pt;'><br>Debelle Josephine<font style='font-size: 8pt;'><br>Debelle Charlotte<font style='font-size: 8pt;'><br>Codato Alice<font style='font-size: 8pt;'><br>Barison Matilde</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					403</b>&nbsp;<i>(209)</i> Ore: <b>14:09:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SATURNIA CC(1)</i></font><font style='font-size: 8pt;'><br>Costa Michela<font style='font-size: 8pt;'><br>Dorci Alice<font style='font-size: 8pt;'><br>Goina Sara<font style='font-size: 8pt;'><br>Premerl Samantha</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					404</b>&nbsp;<i>(55)</i> Ore: <b>14:10:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>URANIA(1)</i></font><font style='font-size: 8pt;'><br>Dioguardi Elisa<font style='font-size: 8pt;'><br>Graci Alessia<font style='font-size: 8pt;'><br>Moscatelli Arianna<font style='font-size: 8pt;'><br>Graci Viviana<font style='font-size: 6pt;'>(GR)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					405</b>&nbsp;<i>(232)</i> Ore: <b>14:10:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PRO MONOPOLI(1)</i></font><font style='font-size: 8pt;'><br>Lenoci Stefania<font style='font-size: 8pt;'><br>Cascione Lucia<font style='font-size: 6pt;'>(GR)<font style='font-size: 8pt;'><br>Petrosillo Alice<font style='font-size: 8pt;'><br>Vastola Francesca</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div><div class='page'>
+				<table border="0" cellpadding="1" cellspacing="0" width="100%">
+					<tr><td  class='label10'>FEDERAZIONE ITALIANA CANOTTAGGIO <br><b>PROGRAMMA GARE </b></td>
+						<td><img src='bannerPROG.jpg'></td>
+						<td class='label10' align='left'><b>Regata del <br>25/01/2020 - 26/01/2020</b></td>
+					</tr>
+				</table><table border='0' cellpadding='2' cellspacing='0' width='100%'>
+				<tr valign ='top' >
+					<td class='t3'><font style='font-size: 8pt;'>GARA </font>
+						<font style='font-size: 10pt;'><b>39 </b></font>
+						<font style='font-size: 8pt;'>del <b>26 &nbsp;</b></font><font style='font-size: 8pt;'><b>DOPPIO Junior F &nbsp; Finale 1 </b></font>    
+			 		</td>
+			 		<td align='right' class='t3'>
+					 	<font style='font-size: 8pt;'><i><b>C FONDO 2X e 4-</b> PISA</i></font>
+					 	<font style='font-size: 7pt;'>(Codice 6 mt. N.Eq. 20 N.Isc. 20)
+					</td>
+				</tr>
+			</table>
+			<table border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					406</b>&nbsp;<i>(3)</i> Ore: <b>14:12:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CAVALLINI(1)</i></font><font style='font-size: 8pt;'><br>Borriello Giorgia<font style='font-size: 8pt;'><br>De Martino Benedetta</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					407</b>&nbsp;<i>(108)</i> Ore: <b>14:13:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>RETICA CAN.(1)</i></font><font style='font-size: 8pt;'><br>Testa Alice<font style='font-size: 8pt;'><br>Zardoni Anna</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					408</b>&nbsp;<i>(197)</i> Ore: <b>14:13:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MOLTRASIO(1)</i></font><font style='font-size: 8pt;'><br>Clerici Giulia Magdale<font style='font-size: 8pt;'><br>Sala Matilde</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					409</b>&nbsp;<i>(246)</i> Ore: <b>14:14:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>BALDESIO(1)</i></font><font style='font-size: 8pt;'><br>Alfano Miriam<font style='font-size: 6pt;'>(GR)<font style='font-size: 8pt;'><br>Kercuku Valentina</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					410</b>&nbsp;<i>(138)</i> Ore: <b>14:14:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>LIGNANO CC(1)</i></font><font style='font-size: 8pt;'><br>Gnatta Alice<font style='font-size: 8pt;'><br>Benedetti Claudia</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					411</b>&nbsp;<i>(218)</i> Ore: <b>14:15:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CORGENO SC(1)</i></font><font style='font-size: 8pt;'><br>Marcon Chiara<font style='font-size: 8pt;'><br>Torregrossa Martina</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					412</b>&nbsp;<i>(77)</i> Ore: <b>14:15:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>MOTO GUZZI(1)</i></font><font style='font-size: 8pt;'><br>Danelli Gloria<font style='font-size: 6pt;'>(GR)<font style='font-size: 8pt;'><br>Della Fontana Chiara</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					413</b>&nbsp;<i>(207)</i> Ore: <b>14:16:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SATURNIA CC(1)</i></font><font style='font-size: 8pt;'><br>Cardoso Maciel Milena<font style='font-size: 8pt;'><br>Mitri Letizia</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					414</b>&nbsp;<i>(23)</i> Ore: <b>14:16:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GARDA SALO'(1)</i></font><font style='font-size: 8pt;'><br>Spiazzi Lia<font style='font-size: 8pt;'><br>Soncina Alessia</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					415</b>&nbsp;<i>(62)</i> Ore: <b>14:17:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>TERNI CLT(1)</i></font><font style='font-size: 8pt;'><br>Claudiani Desiree<font style='font-size: 8pt;'><br>Virili Maddalena</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					416</b>&nbsp;<i>(151)</i> Ore: <b>14:17:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GAVIRATE(1)</i></font><font style='font-size: 8pt;'><br>Barili Martina<font style='font-size: 8pt;'><br>Giffoni Matilde</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					417</b>&nbsp;<i>(231)</i> Ore: <b>14:18:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PRO MONOPOLI(1)</i></font><font style='font-size: 8pt;'><br>Bovio Ilaria<font style='font-size: 8pt;'><br>Cutrignelli Vanessa</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					418</b>&nbsp;<i>(1)</i> Ore: <b>14:18:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>ESPERIA TO(1)</i></font><font style='font-size: 8pt;'><br>Bosio Giulia<font style='font-size: 8pt;'><br>Cravero Irene</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					419</b>&nbsp;<i>(181)</i> Ore: <b>14:19:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>TIMAVO SC(1)</i></font><font style='font-size: 8pt;'><br>Mauri Lucia<font style='font-size: 8pt;'><br>Camarotto Barbara<font style='font-size: 6pt;'>(GR)</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					420</b>&nbsp;<i>(152)</i> Ore: <b>14:19:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>GAVIRATE(1)</i></font><font style='font-size: 8pt;'><br>Carente Rebecca<font style='font-size: 8pt;'><br>Crivello Sara</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					421</b>&nbsp;<i>(100)</i> Ore: <b>14:20:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>CAPRERA SC(1)</i></font><font style='font-size: 8pt;'><br>Biz Gaia<font style='font-size: 8pt;'><br>Bipedi Elisabetta</td></tr><tr><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					422</b>&nbsp;<i>(127)</i> Ore: <b>14:20:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>SAN MINIATO(1)</i></font><font style='font-size: 8pt;'><br>Gallucci Victoria<font style='font-size: 6pt;'>(GR)<font style='font-size: 8pt;'><br>Benvenuti Chiara</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					423</b>&nbsp;<i>(12)</i> Ore: <b>14:21:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>FIRENZE SC(1)</i></font><font style='font-size: 8pt;'><br>Orzalesi Maria<font style='font-size: 6pt;'>(GR)<font style='font-size: 8pt;'><br>Bedogni Eleonora</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					424</b>&nbsp;<i>(234)</i> Ore: <b>14:21:30</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>PADOVACANOTT(1)</i></font><font style='font-size: 8pt;'><br>Donadello Vera<font style='font-size: 8pt;'><br>Bossan Costanza</td><td align='left' valign='top' class='t1' NOWRAP>
+					<font style='font-size: 8pt;'><b>
+					425</b>&nbsp;<i>(37)</i> Ore: <b>14:22:00</b> <b> &nbsp;&nbsp;</b><br>
+					<font style='font-weight:bolder;'><i>BISSOLATI SC(1)</i></font><font style='font-size: 8pt;'><br>Pedrola Susanna<font style='font-size: 8pt;'><br>Sali Elena</td></tr><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td><td width='12%'><img src='150x20v.gif' height='0'></td></tr></table></div></td></tr>
+		<tr>
+			<td ><div class='bottoni'><form name='cf_ele' action="#"  method='post'>
+					
+					<input type='reset' name='chiudi' value='CHIUDI' onClick='window.close()' class='bt1'>
+					<input type='reset' name='stampa' value='STAMPA' onClick='window.print()' class='bt1'></form>
+					</div>
+			</td>
+		</tr>
+	</table>
+	</html>
